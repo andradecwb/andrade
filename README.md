@@ -1,2 +1,2 @@
 # andrade
-filsosfoia
+filosofia
