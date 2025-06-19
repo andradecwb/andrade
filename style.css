@@ -3,4 +3,10 @@ body{
     color:white
     font-family:"Open Sans", sans-serif;
 }
-h1{font-size: 60px;}
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
