@@ -1,8 +1,12 @@
-body{
+body{ 
+
     background-color: black;
     color:white
     font-family;"Open Sans", sans-serif;
     margin; 0px;
+
+    header { border-bottom: solid 3px rgb (42, 122, 228) 
+        }
 }
 h1{
     font-size: 30px;
